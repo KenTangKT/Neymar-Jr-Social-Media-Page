@@ -1,0 +1,60 @@
+.title, h2{
+    text-align: center;
+}
+body{
+    background-color: lightgreen;
+}
+.page{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.about-me{
+    border: 5px solid black;
+    padding-left: 5px;
+    padding-right: 25px;
+   	margin-right: 5px;
+    
+}
+img{
+    height: 250px;
+}
+.neymar{
+    height: 280px;
+}
+.brazil{
+    height: 300px;
+}
+.stream{
+    border: 5px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 5px;
+   
+    
+}
+.transfer{
+    height: 450px;
+}
+.cup{
+    height: 400px;
+}
+.kobe{
+    height: 375px;
+}
+.teamates{
+     border: 5px solid black;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.mbappe{
+    height: 155px;
+}
+.messi{
+    height: 170px;
+}
+p{
+    font-family: 'Architects Daughter', cursive;
+}
+
+
